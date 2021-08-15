@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Contact info
 
-📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont
+📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont | https://instagram.com/renzondl
 
 # License information
 
