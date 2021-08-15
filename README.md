@@ -24,7 +24,7 @@ Live Preview: https://renzodupont.github.io/mit-career-2021/week-14/
 ### `npm install`
 
 This will get all the needed dependencies in your folder
-2 - Finally in the project directory, run:
+3 - Finally in the project directory, run:
 
 ### `npm start`
 
